@@ -1,0 +1,16 @@
+name: dreamers_zodiac_predictor
+version: 1.0.0
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  intl: ^0.17.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
